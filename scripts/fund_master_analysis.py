@@ -15,3 +15,4 @@ print(df["sub_category"].unique())
 
 print("\nRISK CATEGORIES")
 print(df["risk_category"].value_counts())
+
